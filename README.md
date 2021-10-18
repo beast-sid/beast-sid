@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <a/>
 
    <a href="https://leetcode.com/beast_sid/">
-    <img src="https://img.shields.io/badge/valiant__vidit-FFD580?style=for-the-badge&logo=leetcode&logoColor=white">
+    <img src="https://img.shields.io/badge/beast_sid-FFD580?style=for-the-badge&logo=leetcode&logoColor=white">
   <a/>
   
   
