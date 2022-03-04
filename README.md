@@ -1,3 +1,4 @@
+[![Matrix SVG]
 <h1 align="center">:wave:Hello, I'm Siddharth Saxena a.k.a. beast-sid</h1>
 
 <!--
